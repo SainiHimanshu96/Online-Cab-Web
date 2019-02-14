@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ac97af2f-cb21-4172-822c-a411f75a35e3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/OnlineCabService/OnlineCabServiceWeb/(S(4tv3nqvyozxp3trh5nraui55))/GetFareService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GetFareService.disco" MetadataType="Disco" ID="cbb9d9dd-0732-4730-9d1f-960452e7ca19" SourceId="1" SourceUrl="http://sanchita-pc/OnlineCabService/OnlineCabServiceWeb/GetFareService.svc?disco" />
+    <MetadataFile FileName="GetFareService.xsd" MetadataType="Schema" ID="aa304d62-d8ea-45fd-a69d-6438b08e1ffe" SourceId="1" SourceUrl="http://sanchita-pc/OnlineCabService/OnlineCabServiceWeb/GetFareService.svc?xsd=xsd1" />
+    <MetadataFile FileName="GetFareService1.xsd" MetadataType="Schema" ID="949bc224-9651-49e6-ade9-eaf2b7348c30" SourceId="1" SourceUrl="http://sanchita-pc/OnlineCabService/OnlineCabServiceWeb/GetFareService.svc?xsd=xsd0" />
+    <MetadataFile FileName="GetFareService.wsdl" MetadataType="Wsdl" ID="0a0ac36b-26f7-4e70-8909-dd6a0eeaa567" SourceId="1" SourceUrl="http://sanchita-pc/OnlineCabService/OnlineCabServiceWeb/GetFareService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

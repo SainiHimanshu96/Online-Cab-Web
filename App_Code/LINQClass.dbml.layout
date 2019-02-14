@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LINQClass">
+  <DataContextMoniker Name="/LINQClassDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b1b34ffb-d158-4a84-a3d8-7e151ccc6360" absoluteBounds="0.5, 1.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LINQClassDataContext/Feedback" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aad56f08-397a-490d-a93c-a21d6d248118" absoluteBounds="0.51500000000000012, 2.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="063ef925-4dd3-4287-ab05-5d2b0e7505bd" absoluteBounds="2.875, 0.75, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/LINQClassDataContext/NewBooking" />
+      <nestedChildShapes>
+        <elementListCompartment Id="502ca269-9e2d-4a11-b8ec-0ee553c6efb7" absoluteBounds="2.89, 1.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0c84626c-b981-40fb-8303-3cac9e9a8e15" absoluteBounds="2.625, 3.875, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/LINQClassDataContext/User_Registration" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a086353-ad36-441f-9262-7d9e42a23b4e" absoluteBounds="2.64, 4.335, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
